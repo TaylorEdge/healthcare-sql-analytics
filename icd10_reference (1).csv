@@ -1,0 +1,21 @@
+icd10_code,description,category,requires_7th,valid
+I10,Essential (primary) hypertension,Cardiovascular,0,1
+I50.9,"Heart failure, unspecified",Cardiovascular,0,1
+I50.32,Chronic diastolic heart failure,Cardiovascular,0,1
+E11.9,Type 2 diabetes mellitus without complications,Endocrine,0,1
+E11.65,Type 2 diabetes with hyperglycemia,Endocrine,0,1
+J18.9,"Pneumonia, unspecified organism",Respiratory,0,1
+J44.1,COPD with acute exacerbation,Respiratory,0,1
+N18.3,"Chronic kidney disease, stage 3",Renal,0,1
+N18.4,"Chronic kidney disease, stage 4",Renal,0,1
+I63.9,"Cerebral infarction, unspecified",Neurological,0,1
+S72.0,Fracture of femoral neck,Musculoskeletal,1,1
+S82.2,Fracture of shaft of tibia,Musculoskeletal,1,1
+L03.11,Cellulitis of right lower limb,Infectious,0,1
+K52.9,"Noninfective gastroenteritis, unspecified",GI,0,1
+I48.91,Unspecified atrial fibrillation,Cardiovascular,0,1
+I50,Heart failure (truncated - missing specificity),Cardiovascular,0,0
+E11,Type 2 diabetes (truncated),Endocrine,0,0
+J44,COPD (truncated),Respiratory,0,0
+S72,Femoral fracture (needs 7th char),Musculoskeletal,1,1
+Z99.89,Dependence on other enabling machines,Other,0,1
